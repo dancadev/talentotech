@@ -1,0 +1,3 @@
+se crea el entorno virtual local
+
+py -m venv env

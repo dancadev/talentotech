@@ -1,0 +1,6 @@
+git init . : Inicia un nuevo repositorio en la ruta raiz
+git add : Añade un archivo a la zona de montaje
+git status : lista lo archivos que deben ser confirmados
+git log : muestra el historial de las vertsiones en la rama actual
+git clone: Clona un repositorio existente
+git commit : describe el punto de control
