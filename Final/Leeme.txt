@@ -1,0 +1,2 @@
+El archivo Final60 corresponde a la ultima version aunque presenta el problema al momento 
+de generar el mapa
